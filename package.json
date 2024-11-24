@@ -4,13 +4,24 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode production",
+    "build": "webpack",
     "watch": "webpack --watch"
   },
   "author": "oktaw",
   "license": "MIT",
-  "description": "",
-  "type": "module",
+  "description": "Simple functions to work with array",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oktawel/lab5js"
+  },
+  "keywords": [
+    "array",
+    "array functions",
+    "javascript",
+    "js"
+  ],
+
   "dependencies": {
     "lodash": "^4.17.21"
   },
