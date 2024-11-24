@@ -10,7 +10,7 @@
   "author": "oktaw",
   "license": "MIT",
   "description": "Simple functions to work with array",
-  "type": "commonjs",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/oktawel/lab5js"
