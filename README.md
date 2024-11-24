@@ -6,14 +6,14 @@ A simple package for array manipulation using Lodash.
 
 Install the package via npm:
 ```bash
-npm install lab5js
+npm install functions_to_work_with_arrays_js
 ```
 ## Usage
 
 Import and use the functions:
 
 ```javascript
-import { squareNumbers, groupBy } from 'your-package-name';
+import { squareNumbers, groupBy } from 'functions_to_work_with_arrays_js';
 
 // Example 1: Squaring numbers
 const numbers = [1, 2, 3, 4, 5];
